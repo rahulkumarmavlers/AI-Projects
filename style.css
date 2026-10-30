@@ -1,0 +1,15 @@
+/*
+Theme Name: Mepchem
+Theme URI: https://mepchem.com/
+Author: Mepchem
+Description: Custom theme for MEPCHEM, a chemical distribution company. Pages are built with an ACF Flexible Content page builder (Secure Custom Fields / ACF PRO).
+Version: 1.0.0
+Requires at least: 6.5
+Tested up to: 7.1
+Requires PHP: 8.1
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: mepchem
+*/
+
+/* Front-end styles live in assets/css/critical.css (inlined) and assets/css/main.css. */
